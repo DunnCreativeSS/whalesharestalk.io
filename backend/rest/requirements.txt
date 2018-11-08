@@ -1,0 +1,6 @@
+flask
+flask-cors
+pymongo
+whaleshares==0.1.0
+uwsgi
+funcy==1.8
